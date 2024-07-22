@@ -1,0 +1,27 @@
+{
+  "name": "loan-calc",
+  "version": "1.0.0",
+  "description": "A JavaScript library for calculating mortgages, car loans, and personal loans with advanced features.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "jest"
+  },
+  "keywords": [
+    "loan",
+    "javascript",
+    "mortgage",
+    "car"
+  ],
+  "author": "David Courtney",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.24.9",
+    "@babel/preset-env": "^7.24.8",
+    "jest": "^29.7.0"
+  }
+}
