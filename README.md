@@ -11,7 +11,7 @@ A JavaScript library for calculating mortgages, car loans, and personal loans wi
   
 
 ```bash
-npm  install  loan-calc
+npm  install  loan-calc2
 ```
   
 
@@ -21,7 +21,7 @@ npm  install  loan-calc
 
 ```javascript
 
-import { MortgageLoan, CarLoan, StudentLoan, HomeEquityLoan, CreditCardDebt } from 'loan-calc';
+import { MortgageLoan, CarLoan, StudentLoan, HomeEquityLoan, CreditCardDebt } from 'loan-calc2';
 
   
 

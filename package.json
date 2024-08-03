@@ -1,6 +1,6 @@
 {
-  "name": "loan-calc",
-  "version": "1.0.0",
+  "name": "loan-calc2",
+  "version": "1.0.1",
   "description": "A JavaScript library for calculating mortgages, car loans, and personal loans with advanced features.",
   "main": "index.js",
   "directories": {
